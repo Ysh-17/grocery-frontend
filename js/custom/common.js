@@ -1,12 +1,12 @@
 // ------------------------------
 // API URLs
 // ------------------------------
-var productListApiUrl = 'https://grocery-backend-zkw7.onrender.com//getProducts';
-var uomListApiUrl = 'https://grocery-backend-d7jb.onrender.com/getUOM';
-var productSaveApiUrl = 'https://grocery-backend-d7jb.onrender.com/insertProduct';
-var productDeleteApiUrl = 'https://grocery-backend-d7jb.onrender.com/deleteProduct';
-var orderListApiUrl = 'https://grocery-backend-d7jb.onrender.com/getAllOrders';
-var orderSaveApiUrl = 'https://grocery-backend-d7jb.onrender.com/insertOrder';
+var productListApiUrl = 'https://grocery-backend-zkw7.onrender.com/getProducts';
+var uomListApiUrl = 'https://grocery-backend-zkw7.onrender.com/getUOM';
+var productSaveApiUrl = 'https://grocery-backend-zkw7.onrender.com/insertProduct';
+var productDeleteApiUrl = 'https://grocery-backend-zkw7.onrender.com/deleteProduct';
+var orderListApiUrl = 'https://grocery-backend-zkw7.onrender.com/getAllOrders';
+var orderSaveApiUrl = 'https://grocery-backend-zkw7.onrender.com/insertOrder';
 
 // For dropdown in orders page
 var productsApiUrl = 'https://fakestoreapi.com/products';
