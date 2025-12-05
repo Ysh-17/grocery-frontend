@@ -1,7 +1,7 @@
 // ------------------------------
 // API URLs
 // ------------------------------
-var productListApiUrl = 'https://grocery-backend-d7jb.onrender.com/getProducts';
+var productListApiUrl = 'https://grocery-backend-zkw7.onrender.com//getProducts';
 var uomListApiUrl = 'https://grocery-backend-d7jb.onrender.com/getUOM';
 var productSaveApiUrl = 'https://grocery-backend-d7jb.onrender.com/insertProduct';
 var productDeleteApiUrl = 'https://grocery-backend-d7jb.onrender.com/deleteProduct';
