@@ -28,7 +28,6 @@ $(function () {
             $.each(response, function (index, product) {
                 table += `
                     <tr data-id="${product.product_id}" data-name="${product.name}">
-                        <td>${product.product_id}</td>
                         <td>${product.name}</td>
                         <td>${product.uom_name}</td>
                         <td>${product.price_per_unit}</td>
